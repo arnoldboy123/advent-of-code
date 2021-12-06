@@ -20,7 +20,7 @@ end
 
 
 # We loop this through 80 times
-80.times do
+256.times do
   init_inputs = lattern_fish_numbers_reproduce(init_inputs)
   init_inputs = lattern_fish_numbers_reduce(init_inputs)
 end

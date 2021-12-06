@@ -5,4 +5,4 @@ You don't need a computer science background to participate - just a little prog
 I have put each day's challenge and my attempt in a separate folder in my main lib folder.
 
 # Completed challenges
-- Day 6: lattern fish numbers
+- Day 6: lattern fish numbers (Part 1)
